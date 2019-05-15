@@ -2,13 +2,13 @@
 	Halcyonic by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	Adapted for Penya Blaugrana de Montán Website
+	@Juan Hidalgo-Saavedra 2019
 */
 
 (function($) {
-
 	var $window = $(window),
 		$body = $('body');
-
 	// Breakpoints.
 		breakpoints({
 			xlarge:  [ '1281px',  '1680px' ],
@@ -16,9 +16,7 @@
 			medium:  [ '737px',   '980px'  ],
 			small:   [ null,      '736px'  ]
 		});
-
 	// Nav.
-
 		// Title Bar.
 			$(
 				'<div id="titleBar">' +
@@ -27,7 +25,6 @@
 				'</div>'
 			)
 				.appendTo($body);
-
 		// Panel.
 			$(
 				'<div id="navPanel">' +
@@ -47,5 +44,4 @@
 					target: $body,
 					visibleClass: 'navPanel-visible'
 				});
-
 })(jQuery);
