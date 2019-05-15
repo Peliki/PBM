@@ -10,10 +10,11 @@
 	Halcyonic by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	Adapted for Penya Blaugrana de Montán Website
+	@Juan Hidalgo-Saavedra 2019
 */
 
 // Breakpoints.
-
 	@include breakpoints((
 		xlarge:  ( 1281px,  1680px ),
 		large:   ( 981px,   1280px ),
@@ -23,7 +24,6 @@
 
 // Reset.
 // Based on meyerweb.com/eric/tools/css/reset (v2.0 | 20110126 | License: public domain)
-
 	html, body, div, span, applet, object,
 	iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 	pre, a, abbr, acronym, address, big, cite,
@@ -93,7 +93,6 @@
 	}
 
 /* Basic */
-
 	// Set box model to border-box.
 	// Based on css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice
 		html {
@@ -140,7 +139,6 @@
 	}
 
 /* Container */
-
 	.container {
 		margin: 0 auto;
 		max-width: 100%;
@@ -164,7 +162,6 @@
 	}
 
 /* Row */
-
 	.row {
 		@include html-grid((25px, 25px));
 
@@ -186,7 +183,6 @@
 	}
 
 /* Multi-use */
-
 	.link-list {
 		li {
 			padding: 0.2em 0 0.2em 0;
@@ -310,7 +306,6 @@
 	}
 
 /* Header */
-
 	#header {
 		position: relative;
 		background: #3B4346 url('images/bg01.jpg');
@@ -362,7 +357,6 @@
 	}
 
 /* Banner */
-
 	#banner {
 		border-top: solid 1px #222628;
 		box-shadow: inset 0px 1px 0px 0px #3e484a;
@@ -383,7 +377,6 @@
 	}
 
 /* Features */
-
 	#features {
 		background: #353D40 url('images/bg02.jpg');
 		border-bottom: solid 1px #272e31;
@@ -407,7 +400,6 @@
 	}
 
 /* Content */
-
 	#content {
 		background: #f7f7f7 url('images/bg04.png');
 		border-top: solid 1px #fff;
@@ -459,7 +451,6 @@
 	}
 
 /* Footer */
-
 	#footer {
 		padding: 45px 0 45px 0;
 		text-shadow: 1px 1px 1px rgba(255, 255, 255, 1);
@@ -499,7 +490,6 @@
 	}
 
 /* Copyright */
-
 	#copyright {
 		border-top: solid 1px #b5bec3;
 		box-shadow: inset 0px 1px 0px 0px #e0e4e7;
@@ -514,11 +504,9 @@
 	}
 
 /* Large */
-
 	@include breakpoint('<=large') {
 
 		/* Multi-use */
-
 			.check-list {
 				li {
 					font-size: 1em;
@@ -558,7 +546,6 @@
 			}
 
 		/* Banner */
-
 			#banner {
 				p {
 					font-size: 1.75em;
@@ -566,7 +553,6 @@
 			}
 
 		/* Header */
-
 			#header {
 				h1 {
 					font-size: 2.25em;
@@ -580,7 +566,6 @@
 			}
 
 		/* Content */
-
 			#content {
 				h2 {
 					font-size: 1.4em;
@@ -598,7 +583,6 @@
 	}
 
 /* Medium */
-
 	#navPanel, #titleBar {
 		display: none;
 	}
@@ -606,13 +590,11 @@
 	@include breakpoint('<=medium') {
 
 		/* Basic */
-
 			html, body {
 				overflow-x: hidden;
 			}
 
 		/* Header */
-
 			#header {
 				text-align: center;
 
@@ -622,13 +604,11 @@
 			}
 
 		/* Content */
-
 			#content {
 				padding: 25px 0;
 			}
 
 		/* Nav */
-
 			#page-wrapper {
 				@include vendor('backface-visibility', 'hidden');
 				@include vendor('transition', 'transform #{_duration(navPanel)} ease');
@@ -756,18 +736,15 @@
 	}
 
 /* Small */
-
 	@include breakpoint('<=small') {
 
 		/* Basic */
-
 			body, input, textarea, select {
 				font-size: 13pt;
 				line-height: 1.4em;
 			}
 
 		/* Multi-use */
-
 			.link-list {
 				li {
 					padding: 0.75em 0 0.75em 0;
@@ -793,7 +770,6 @@
 			}
 
 		/* Banner */
-
 			#banner {
 				p {
 					font-size: 1.25em;
@@ -804,7 +780,6 @@
 			}
 
 		/* Content */
-
 			#content {
 				section {
 					padding: 30px 20px;
@@ -824,7 +799,6 @@
 			}
 
 		/* Footer */
-
 			#footer {
 				.link-list {
 					margin: 0 0 10px 0 !important;
@@ -832,7 +806,6 @@
 			}
 
 		/* Copyright */
-
 			#copyright {
 				padding: 20px 30px;
 			}
