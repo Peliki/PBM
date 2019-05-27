@@ -13,6 +13,13 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
 		<link rel="stylesheet" href="../assets/css/main.css"/>
 		<link rel="shortcut icon" type="image/x-icon" href="../images/favicon.ico"/>
+		<script type="text/javascript">
+		var windowId = 0;
+		function OpenURL(url) {
+			windowId++;
+			window.open(url, windowId)
+		}
+		</script>
   	</head>
 	<body>
 		<div id="page-wrapper">
@@ -62,8 +69,8 @@
 										<a href="onecolumn.html" class="bordered-feature-image"><img src="../images/bandera.jpg" alt=""/></a>
 										<h2>Bienvenidos a nuestra Peña</h2>
 										<p>
-											La <strong>Penya Blaugrana de Montán</strong>, es una peña oficial del <a href="https://www.fcbarcelona.es/">F.C. Barcelona</a>.<br>
-											Estamos en <a href="https://es.wikipedia.org/wiki/Mont%C3%A1n">Montán</a> (CS), pero somos una peña abierta a cualquier persona aficionada al Barça.
+											La <strong>Penya Blaugrana de Montán</strong>, es una peña oficial del <a href="javascript: OpenURL('https://www.fcbarcelona.es')">F.C. Barcelona</a>.<br>
+											Estamos en <a href="javascript: OpenURL('http://www.montan.es')">Montán</a> (CS), pero somos una peña abierta a cualquier persona aficionada al Barça.
 										</p>
 									</section>
 							</div>
@@ -84,7 +91,7 @@
 										<a href="onecolumn.html" class="bordered-feature-image"><img src="../images/pic03.jpg" alt=""/></a>
 										<h2>License Info</h2>
 										<p>
-											Halcyonic is licensed under the <a href="http://html5up.net/license">CCA</a> license,
+											Halcyonic is licensed under the <a href="javascript: OpenURL('http://html5up.net/license')">CCA</a> license,
 											so use it for personal/commercial use as much as you like (just keep
 											our credits intact).
 										</p>
@@ -218,7 +225,7 @@
 				</section>
 			<!-- Copyright -->
 				<div id="copyright">
-					&copy; Penya Blaugrana de Montán. All rights reserved. | Design: <a href="http://html5up.net">HTML5 UP</a>
+					&copy; Penya Blaugrana de Montán. All rights reserved. | Design: <a href="javascript: OpenURL('http://html5up.net')">HTML5 UP</a>
 				</div>
 		</div>
 		<!-- Scripts -->
