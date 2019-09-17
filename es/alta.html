@@ -55,7 +55,7 @@
 											¡¡Si has llegado hasta aquí es porque estás interesado en formar parte de nuestra Peña Oficial del F.C. Barcelona...!!<br>
 											Lo que tienes que hacer es muy sencillo, simplemente rellena el formulario siguiente y nos pondremos en contacto contigo lo antes posible.
 											<br>
-											<form action="mailto:penya.blaugrana.montan@gmail.com" method="post">
+											<form id="DataForm" action="../assets/mailhandler.php" method="post">
 											<table>
 												<tr>
 													<td>Nombre:</td>
@@ -71,7 +71,7 @@
 												</tr>
 												<tr>
 													<td>&nbsp;</td>
-													<td colspan="3">&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript: OpenURL('http://www.montan.es')" class="button-small">ENVIAR</a></td>
+													<td colspan="3">&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript: document.getElementById("DataForm").submit();" class="button-small">ENVIAR</a></td>
 												</tr>
 											</table>
 											</form>
