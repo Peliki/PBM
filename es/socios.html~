@@ -8,7 +8,7 @@ Adapted for Penya Blaugrana de Montán Website
 -->
 <html>
 <head>
-	<title>Penya Blaugrana de Montán - Socis</title>
+	<title>Penya Blaugrana de Montán - Socios</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="../assets/css/main.css" />
@@ -33,9 +33,9 @@ Adapted for Penya Blaugrana de Montán Website
 						<!-- Nav -->
 						<nav id="nav">
 							<a href="index.html">Principal</a>
-							<a href="penya.html">La Penya</a>
-							<a href="socis.html">Socis</a>
-							<a href="activitats.html">Activitats</a>
+							<a href="penya.html">La Peña</a>
+							<a href="socios.html">Socios</a>
+							<a href="actividades.html">Actividades</a>
 						</nav>
 					</div>
 				</div>
@@ -49,276 +49,269 @@ Adapted for Penya Blaugrana de Montán Website
 						<!-- Main Content -->
 						<section>
 							<header>
-								<h2>SOCIS DE LA PENYA</h2>
-								<h3>Any 2020</h3>
+								<h2>SOCIOS DE LA PEÑA</h2>
+								<h3>Año 2022</h3>
 							</header>
-							Després de 1 baixa, el nombre de Socis per a l'any 2022 és de 42.<br>
+							Después de 4 bajas y 2 altas, el número de Socios para el año 2020 es de 41.<br>
 							<br>
-							La distribució de Socis és la següent:<br>
+							La distribución de Socios es la siguiente:<br>
 							<ul>
-								<li>&nbsp;&nbsp;&nbsp;&nbsp;- Soci Sènior: 31</li>
-								<li>&nbsp;&nbsp;&nbsp;&nbsp;- Soci Sènior Pensionista: 6</li>
-								<li>&nbsp;&nbsp;&nbsp;&nbsp;- Soci Juvenil: 4</li>
-								<li>&nbsp;&nbsp;&nbsp;&nbsp;- Soci Infantil: 1</li>
+								<li>&nbsp;&nbsp;&nbsp;&nbsp;- Socio Senior: 30</li>
+								<li>&nbsp;&nbsp;&nbsp;&nbsp;- Socio Senior Pensionista: 2</li>
+								<li>&nbsp;&nbsp;&nbsp;&nbsp;- Socio Juvenil: 9</li>
 							</ul>
 							<table>
 								<tr>
-									<td><h3>Nombre</h3></td>
-									<td><h3>&nbsp;&nbsp;Nom</h3></td>
-									<td><h3>&nbsp;&nbsp;Tipus de Soci</h3></td>
-									<td><h3>&nbsp;&nbsp;Antiguitat</h3></td>
+									<td><h3>Número</h3></td>
+									<td><h3>&nbsp;&nbsp;Nombre</h3></td>
+									<td><h3>&nbsp;&nbsp;Tipo de Socio</h3></td>
+									<td><h3>&nbsp;&nbsp;Antigüedad</h3></td>
 								</tr>
 								<tr>
 									<td align="center">1</td>
 									<td>&nbsp;&nbsp;&nbsp;Fernando Guiñón Bou</td>
-									<td align="center">Sènior</td>
-									<td align="center">10 anys</td>
+									<td align="center">Senior</td>
+									<td align="center">7 años</td>
 								</tr>
 								<tr>
 									<td align="center">2</td>
 									<td>&nbsp;&nbsp;&nbsp;Manuel Flor Mendoza</td>
-									<td align="center">Sènior</td>
-									<td align="center">10 anys</td>
+									<td align="center">Senior</td>
+									<td align="center">7 años</td>
 								</tr>
 								<tr>
 									<td align="center">3</td>
 									<td>&nbsp;&nbsp;&nbsp;José Vicente Fornas Gil</td>
-									<td align="center">Sènior</td>
-									<td align="center">10 anys</td>
+									<td align="center">Senior</td>
+									<td align="center">7 años</td>
 								</tr>
 								<tr>
 									<td align="center">4</td>
 									<td>&nbsp;&nbsp;&nbsp;Alejandro Guiñón Tuzón</td>
-									<td align="center">Sènior</td>
-									<td align="center">10 anys</td>
+									<td align="center">Senior</td>
+									<td align="center">7 años</td>
 								</tr>
 								<tr>
 									<td align="center">5</td>
 									<td>&nbsp;&nbsp;&nbsp;Manuel Montoliu Fornas</td>
-									<td align="center">Sènior</td>
-									<td align="center">10 anys</td>
+									<td align="center">Senior</td>
+									<td align="center">7 años</td>
 								</tr>
 								<tr>
 									<td align="center">6</td>
 									<td>&nbsp;&nbsp;&nbsp;Miguel Gil Gil</td>
-									<td align="center">Sènior</td>
-									<td align="center">10 anys</td>
+									<td align="center">Senior</td>
+									<td align="center">7 años</td>
 								</tr>
 								<tr>
 									<td align="center">7</td>
 									<td>&nbsp;&nbsp;&nbsp;Miguel Ángel Martín López</td>
-									<td align="center">Sènior</td>
-									<td align="center">10 anys</td>
+									<td align="center">Senior</td>
+									<td align="center">7 años</td>
 								</tr>
 								<tr>
 									<td align="center">8</td>
 									<td>&nbsp;&nbsp;&nbsp;Vicente Gómez García</td>
-									<td align="center">Sènior</td>
-									<td align="center">10 anys</td>
+									<td align="center">Senior</td>
+									<td align="center">7 años</td>
 								</tr>
 								<tr>
 									<td align="center">9</td>
 									<td>&nbsp;&nbsp;&nbsp;Juan Hidalgo-Saavedra González</td>
-									<td align="center">Sènior</td>
-									<td align="center">10 anys</td>
+									<td align="center">Senior</td>
+									<td align="center">7 años</td>
 								</tr>
 								<tr>
 									<td align="center">10</td>
 									<td>&nbsp;&nbsp;&nbsp;Alicia Martín Ibáñez</td>
-									<td align="center">Sènior</td>
-									<td align="center">10 anys</td>
+									<td align="center">Senior</td>
+									<td align="center">7 años</td>
 								</tr>
 								<tr>
 									<td align="center">11</td>
 									<td>&nbsp;&nbsp;&nbsp;María Milagros Ávila Moliner</td>
-									<td align="center">Sènior</td>
-									<td align="center">10 anys</td>
+									<td align="center">Senior</td>
+									<td align="center">7 años</td>
 								</tr>
 								<tr>
 									<td align="center">12</td>
 									<td>&nbsp;&nbsp;&nbsp;Javier Esteve Álvarez</td>
-									<td align="center">Sènior</td>
-									<td align="center">10 anys</td>
+									<td align="center">Senior</td>
+									<td align="center">7 años</td>
 								</tr>
 								<tr>
 									<td align="center">13</td>
 									<td>&nbsp;&nbsp;&nbsp;Alejandro Sánchez-Camacho López</td>
-									<td align="center">Sènior</td>
-									<td align="center">10 anys</td>
+									<td align="center">Senior</td>
+									<td align="center">7 años</td>
 								</tr>
 								<tr>
 									<td align="center">14</td>
 									<td>&nbsp;&nbsp;&nbsp;Guillermo Montoliu Gil</td>
-									<td align="center">Sènior</td>
-									<td align="center">10 anys</td>
+									<td align="center">Senior</td>
+									<td align="center">7 años</td>
 								</tr>
 								<tr>
 									<td align="center">15</td>
 									<td>&nbsp;&nbsp;&nbsp;Oscar Guiñón Montolio</td>
-									<td align="center">Sènior</td>
-									<td align="center">10 anys</td>
+									<td align="center">Senior</td>
+									<td align="center">7 años</td>
 								</tr>
 								<tr>
 									<td align="center">16</td>
 									<td>&nbsp;&nbsp;&nbsp;Ferràn Guiñón Tatay</td>
-									<td align="center">Sènior</td>
-									<td align="center">10 anys</td>
+									<td align="center">Juvenil</td>
+									<td align="center">7 años</td>
 								</tr>
 								<tr>
 									<td align="center">17</td>
 									<td>&nbsp;&nbsp;&nbsp;Claudia Flor Martín</td>
-									<td align="center">Sènior</td>
-									<td align="center">10 anys</td>
+									<td align="center">Juvenil</td>
+									<td align="center">7 años</td>
 								</tr>
 								<tr>
 									<td align="center">18</td>
 									<td>&nbsp;&nbsp;&nbsp;Diego Hidalgo-Saavedra Ávila</td>
 									<td align="center">Juvenil</td>
-									<td align="center">10 anys</td>
+									<td align="center">7 años</td>
 								</tr>
 								<tr>
 									<td align="center">19</td>
 									<td>&nbsp;&nbsp;&nbsp;Rocío Hidalgo-Saavedra Ávila</td>
 									<td align="center">Juvenil</td>
-									<td align="center">10 anys</td>
+									<td align="center">7 años</td>
 								</tr>
 								<tr>
 									<td align="center">20</td>
 									<td>&nbsp;&nbsp;&nbsp;Rodrigo Flor Martín</td>
 									<td align="center">Juvenil</td>
-									<td align="center">10 anys</td>
+									<td align="center">7 años</td>
 								</tr>
 								<tr>
 									<td align="center">21</td>
 									<td>&nbsp;&nbsp;&nbsp;Vicente José Pérez Guiñón</td>
-									<td align="center">Sènior</td>
-									<td align="center">9 anys</td>
+									<td align="center">Senior</td>
+									<td align="center">6 años</td>
 								</tr>
 								<tr>
 									<td align="center">22</td>
 									<td>&nbsp;&nbsp;&nbsp;Gloria Tatay Navarro</td>
-									<td align="center">Sènior</td>
-									<td align="center">9 anys</td>
+									<td align="center">Senior</td>
+									<td align="center">6 años</td>
 								</tr>
 								<tr>
 									<td align="center">23</td>
 									<td>&nbsp;&nbsp;&nbsp;Maydole Barrachina Adelantado</td>
-									<td align="center">Sènior</td>
-									<td align="center">9 anys</td>
+									<td align="center">Senior</td>
+									<td align="center">6 años</td>
 								</tr>
 								<tr>
 									<td align="center">24</td>
 									<td>&nbsp;&nbsp;&nbsp;Natalia Salvador Montoliu</td>
-									<td align="center">Sènior</td>
-									<td align="center">8 anys</td>
+									<td align="center">Senior</td>
+									<td align="center">5 años</td>
 								</tr>
 								<tr>
 									<td align="center">25</td>
-									<td>&nbsp;&nbsp;&nbsp;José Gargallo Gregori</td>
-									<td align="center">Sènior Pensionista</td>
-									<td align="center">7 anys</td>
+									<td>&nbsp;&nbsp;&nbsp;David Huertas Álvarez</td>
+									<td align="center">Senior</td>
+									<td align="center">5 años</td>
 								</tr>
 								<tr>
 									<td align="center">26</td>
-									<td>&nbsp;&nbsp;&nbsp;María Amparo Montolio Garcés</td>
-									<td align="center">Sènior</td>
-									<td align="center">7 anys</td>
+									<td>&nbsp;&nbsp;&nbsp;Guillem Vinaixa-Gil Usó</td>
+									<td align="center">Juvenil</td>
+									<td align="center">5 años</td>
 								</tr>
 								<tr>
 									<td align="center">27</td>
-									<td>&nbsp;&nbsp;&nbsp;Matilde Galera Punzano</td>
-									<td align="center">Sènior</td>
-									<td align="center">7 anys</td>
+									<td>&nbsp;&nbsp;&nbsp;José Gargallo Gregori</td>
+									<td align="center">Senior Pensionista</td>
+									<td align="center">4 años</td>
 								</tr>
 								<tr>
 									<td align="center">28</td>
-									<td>&nbsp;&nbsp;&nbsp;Javier Cervelló Hidalgo-Saavedra</td>
-									<td align="center">Sènior</td>
-									<td align="center">7 anys</td>
+									<td>&nbsp;&nbsp;&nbsp;María Amparo Montolio Garcés</td>
+									<td align="center">Senior</td>
+									<td align="center">4 años</td>
 								</tr>
 								<tr>
 									<td align="center">29</td>
-									<td>&nbsp;&nbsp;&nbsp;Ángel Fornas Martín</td>
-									<td align="center">Juvenil</td>
-									<td align="center">7 anys</td>
+									<td>&nbsp;&nbsp;&nbsp;Matilde Galera Punzano</td>
+									<td align="center">Senior</td>
+									<td align="center">4 años</td>
 								</tr>
 								<tr>
 									<td align="center">30</td>
-									<td>&nbsp;&nbsp;&nbsp;Mario Durá Balbastre</td>
-									<td align="center">Juvenil</td>
-									<td align="center">5 anys</td>
+									<td>&nbsp;&nbsp;&nbsp;Alba Montoliu Gil</td>
+									<td align="center">Senior</td>
+									<td align="center">4 años</td>
 								</tr>
 								<tr>
 									<td align="center">31</td>
-									<td>&nbsp;&nbsp;&nbsp;Victoriano Barrachina Ávila</td>
-									<td align="center">Sènior Pensionista</td>
-									<td align="center">4 any</td>
+									<td>&nbsp;&nbsp;&nbsp;Javier Cervelló Hidalgo-Saavedra</td>
+									<td align="center">Senior</td>
+									<td align="center">4 años</td>
 								</tr>
 								<tr>
 									<td align="center">32</td>
-									<td>&nbsp;&nbsp;&nbsp;María Balbastre Vázquez</td>
-									<td align="center">Sènior</td>
-									<td align="center">4 anys</td>
+									<td>&nbsp;&nbsp;&nbsp;Marta Puerta Galera</td>
+									<td align="center">Senior</td>
+									<td align="center">4 años</td>
 								</tr>
 								<tr>
 									<td align="center">33</td>
-									<td>&nbsp;&nbsp;&nbsp;Antonio Gil Salvador</td>
-									<td align="center">Sènior Pensionista</td>
-									<td align="center">3 anys</td>
+									<td>&nbsp;&nbsp;&nbsp;Ángel Fornas Martín</td>
+									<td align="center">Juvenil</td>
+									<td align="center">4 años</td>
 								</tr>
 								<tr>
 									<td align="center">34</td>
-									<td>&nbsp;&nbsp;&nbsp;Javier Francisco Cervelló Ricart</td>
-									<td align="center">Sènior Pensionista</td>
-									<td align="center">3 anys</td>
+									<td>&nbsp;&nbsp;&nbsp;Antonio López Gallego</td>
+									<td align="center">Senior Pensionista</td>
+									<td align="center">3 años</td>
 								</tr>
 								<tr>
 									<td align="center">35</td>
-									<td>&nbsp;&nbsp;&nbsp;María Pilar Gámez Sánchez</td>
-									<td align="center">Sènior</td>
-									<td align="center">3 anys</td>
+									<td>&nbsp;&nbsp;&nbsp;Mónica Ramón Vea</td>
+									<td align="center">Senior</td>
+									<td align="center">3 años</td>
 								</tr>
 								<tr>
 									<td align="center">36</td>
-									<td>&nbsp;&nbsp;&nbsp;María Soledad Hidalgo-Saavedra González</td>
-									<td align="center">Sènior</td>
-									<td align="center">3 anys</td>
+									<td>&nbsp;&nbsp;&nbsp;Sergio Lluch Torró</td>
+									<td align="center">Senior</td>
+									<td align="center">3 años</td>
 								</tr>
 								<tr>
 									<td align="center">37</td>
-									<td>&nbsp;&nbsp;&nbsp;Enrique Jiménez Blázquez</td>
-									<td align="center">Sènior</td>
-									<td align="center">3 anys</td>
+									<td>&nbsp;&nbsp;&nbsp;Paula Galera Puerta</td>
+									<td align="center">Senior</td>
+									<td align="center">2 años</td>
 								</tr>
 								<tr>
 									<td align="center">38</td>
-									<td>&nbsp;&nbsp;&nbsp;Daniel John Pryor</td>
-									<td align="center">Sènior</td>
-									<td align="center">3 anys</td>
+									<td>&nbsp;&nbsp;&nbsp;Ainara Lluch Rodenas</td>
+									<td align="center">Juvenil</td>
+									<td align="center">2 años</td>
 								</tr>
 								<tr>
 									<td align="center">39</td>
-									<td>&nbsp;&nbsp;&nbsp;Mohammed Salim Boudriiya</td>
-									<td align="center">Sènior</td>
-									<td align="center">3 anys</td>
+									<td>&nbsp;&nbsp;&nbsp;Mario Durá Balbastre</td>
+									<td align="center">Juvenil</td>
+									<td align="center">2 años</td>
 								</tr>
 								<tr>
 									<td align="center">40</td>
-									<td>&nbsp;&nbsp;&nbsp;Alba Cervelló Hidalgo-Saavedra</td>
-									<td align="center">Sènior</td>
-									<td align="center">3 anys</td>
+									<td>&nbsp;&nbsp;&nbsp;Celestino Montolio Donís</td>
+									<td align="center">Senior</td>
+									<td align="center">1 año</td>
 								</tr>
 								<tr>
 									<td align="center">41</td>
-									<td>&nbsp;&nbsp;&nbsp;Marcel Gil Gutiérrez</td>
-									<td align="center">Juvenil</td>
-									<td align="center">3 anys</td>
-								</tr>
-								<tr>
-									<td align="center">42</td>
-									<td>&nbsp;&nbsp;&nbsp;Andrea Salvador Salvador</td>
-									<td align="center">Infantil</td>
-									<td align="center">3 anys</td>
+									<td>&nbsp;&nbsp;&nbsp;María Balbastre Vázquez</td>
+									<td align="center">Senior</td>
+									<td align="center">1 año</td>
 								</tr>
 							</table>
 						</section>
@@ -327,11 +320,11 @@ Adapted for Penya Blaugrana de Montán Website
 						<!-- Sidebar -->
 						<section>
 							<header>
-								<h2>Més informació</h2>
+								<h2>Más información</h2>
 							</header>
 							<ul class="link-list">
-								<li><a href="documents.html">Arxiu de Documents</a></li>
-								<li><a href="estatuts.html">Estatuts de la Penya</a></li>
+								<li><a href="documentos.html">Archivo de Documentos</a></li>
+								<li><a href="estatutos.html">Estatutos de la Peña</a></li>
 								<li><a href="directiva.html">Junta Directiva</a></li>
 							</ul>
 						</section>
@@ -346,13 +339,13 @@ Adapted for Penya Blaugrana de Montán Website
 					<div class="col-8 col-12-medium">
 						<!-- Links -->
 						<section>
-							<h2>Enllaços interessants</h2>
+							<h2>Enlaces interesantes</h2>
 							<div>
 								<div class="row">
 									<div class="col-3 col-12-small">
 										<ul class="link-list last-child">
-											<li><a href="javascript: OpenURL('https://www.fcbarcelona.cat')">F.C. Barcelona</a></li>
-											<li><a href="javascript: OpenURL('https://confederaciopenyes.cat')">Confederació de Penyes</a></li>
+											<li><a href="javascript: OpenURL('https://www.fcbarcelona.es')">F.C. Barcelona</a></li>
+											<li><a href="javascript: OpenURL('https://confederaciopenyes.cat/es/inicio/')">Confederación de Peñas</a></li>
 										</ul>
 									</div>
 									<div class="col-3 col-12-small">
@@ -374,7 +367,7 @@ Adapted for Penya Blaugrana de Montán Website
 					<div class="col-4 col-12-medium imp-medium">
 						<!-- Blurb -->
 						<section>
-							<img src="../images/rojigualda.jpg" alt="Bandera" style="vertical-align:middle;">&nbsp;&nbsp;&nbsp;<a href="../es/socios.html"><font size="+2">Versión en Castellano</font></a>
+							<img src="../images/senyera.png" alt="Senyera" style="vertical-align:middle;">&nbsp;&nbsp;&nbsp;<a href="../ca/socis.html"><font size="+2">Versió en Valencià</font></a>
 						</section>
 					</div>
 				</div>
