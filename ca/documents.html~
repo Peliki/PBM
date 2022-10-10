@@ -8,7 +8,7 @@ Adapted for Penya Blaugrana de Montán Website
 -->
 <html>
 <head>
-	<title>Penya Blaugrana de Montán - Documentos</title>
+	<title>Penya Blaugrana de Montán - Documents</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="../assets/css/main.css" />
@@ -33,9 +33,9 @@ Adapted for Penya Blaugrana de Montán Website
 						<!-- Nav -->
 						<nav id="nav">
 							<a href="index.html">Principal</a>
-							<a href="penya.html">La Peña</a>
-							<a href="socios.html">Socios</a>
-							<a href="actividades.html">Actividades</a>
+							<a href="penya.html">La Penya</a>
+							<a href="socis.html">Socis</a>
+							<a href="activitats.html">Activitats</a>
 						</nav>
 					</div>
 				</div>
@@ -49,66 +49,66 @@ Adapted for Penya Blaugrana de Montán Website
 						<!-- Main Content -->
 						<section>
 							<header>
-								<h2>ARCHIVO DE DOCUMENTOS</h2>
+								<h2>ARXIU DE DOCUMENTS</h2>
 							</header>
 							<p>
-							Desde esta página se puede acceder a los documentos más importantes relacionados con nuestra peña, como por ejemplo las Actas de las Asambleas Generales Ordinarias
-							y otros documentos relevantes.
+							Des d'aquesta pàgina es pot accedir als documents més importants relacionats amb la nostra penya, com ara les actes de les assemblees generals ordinàries i altres
+							documents rellevants.
 							</p>
-							<h3>Actas de Asambleas Generales Ordinarias</h3>
+							<h3>Actes d'Assemblees Generals Ordinàries</h3>
 							<table>
 								<tr>
-									<td style="vertical-align:middle;">- Acta Asamblea General Ordinaria 2022</td>
-									<td style="text-align:center; vertical-align:middle;">&nbsp;&nbsp;&nbsp;4 de junio de 2022</td>
-									<td style="vertical-align:middle;">&nbsp;&nbsp;&nbsp;<a href="javascript: OpenURL('https://www.dropbox.com/s/8srtg6ny3d3ydx0/Acta%20Asamblea%20General%20Ordinaria%202022-06-04.pdf')"><img src="../images/document.png"></a></td>
+									<td style="vertical-align:middle;">- Acta Assemblea General Ordinària 2022</td>
+									<td style="text-align:center; vertical-align:middle;">&nbsp;&nbsp;&nbsp;4 de juny de 2022</td>
+									<td style="vertical-align:middle;">&nbsp;&nbsp;&nbsp;<a href="javascript: OpenURL('')"><img src="../images/document.png"></a></td>
 								</tr>
 								<tr>
-									<td style="vertical-align:middle;">- Acta Asamblea General Ordinaria 2019</td>
-									<td style="text-align:center; vertical-align:middle;">&nbsp;&nbsp;&nbsp;19 de abril de 2019</td>
+									<td style="vertical-align:middle;">- Acta Assemblea General Ordinària 2019</td>
+									<td style="text-align:center; vertical-align:middle;">&nbsp;&nbsp;&nbsp;19 d'abril de 2019</td>
 									<td style="vertical-align:middle;">&nbsp;&nbsp;&nbsp;<a href="javascript: OpenURL('https://www.dropbox.com/s/th2qdytshta02mr/Acta%20Asamblea%20General%20Ordinaria%202019-04-19.pdf')"><img src="../images/document.png"></a></td>
 								</tr>
 								<tr>
-									<td style="vertical-align:middle;">- Acta Asamblea General Ordinaria 2018</td>
-									<td style="text-align:center; vertical-align:middle;">&nbsp;&nbsp;&nbsp;31 de marzo de 2018</td>
+									<td style="vertical-align:middle;">- Acta Assemblea General Ordinària 2018</td>
+									<td style="text-align:center; vertical-align:middle;">&nbsp;&nbsp;&nbsp;31 de març de 2018</td>
 									<td style="vertical-align:middle;">&nbsp;&nbsp;&nbsp;<a href="javascript: OpenURL('https://www.dropbox.com/s/cvmtfvgyc1ntryv/Acta%20Asamblea%20General%20Ordinaria%202018-03-31.pdf')"><img src="../images/document.png"></a></td>
 								</tr>
 								<tr>
-									<td style="vertical-align:middle;">- Acta Asamblea General Ordinaria 2017</td>
-									<td style="text-align:center; vertical-align:middle;">&nbsp;&nbsp;&nbsp;22 de abril de 2017</td>
+									<td style="vertical-align:middle;">- Acta Assemblea General Ordinària 2017</td>
+									<td style="text-align:center; vertical-align:middle;">&nbsp;&nbsp;&nbsp;22 d'abril de 2017</td>
 									<td style="vertical-align:middle;">&nbsp;&nbsp;&nbsp;<a href="javascript: OpenURL('https://www.dropbox.com/s/5w99jc3482pfeuc/Acta%20Asamblea%20General%20Ordinaria%202017-04-22.pdf')"><img src="../images/document.png"></a></td>
 								</tr>
 								<tr>
-									<td style="vertical-align:middle;">- Acta Asamblea General Ordinaria 2016</td>
-									<td style="text-align:center; vertical-align:middle;">&nbsp;&nbsp;&nbsp;26 de marzo de 2016</td>
+									<td style="vertical-align:middle;">- Acta Assemblea General Ordinària 2016</td>
+									<td style="text-align:center; vertical-align:middle;">&nbsp;&nbsp;&nbsp;26 de març de 2016</td>
 									<td style="vertical-align:middle;">&nbsp;&nbsp;&nbsp;<a href="javascript: OpenURL('https://www.dropbox.com/s/01shzpjyezi4ngg/Acta%20Asamblea%20General%20Ordinaria%202016-03-26.pdf')"><img src="../images/document.png"></a></td>
 								</tr>
 								<tr>
-									<td style="vertical-align:middle;">- Acta Asamblea General Ordinaria 2015</td>
-									<td style="text-align:center; vertical-align:middle;">&nbsp;&nbsp;&nbsp;4 de abril de 2015</td>
+									<td style="vertical-align:middle;">- Acta Assemblea General Ordinària 2015</td>
+									<td style="text-align:center; vertical-align:middle;">&nbsp;&nbsp;&nbsp;4 d'abril de 2015</td>
 									<td style="vertical-align:middle;">&nbsp;&nbsp;&nbsp;<a href="javascript: OpenURL('https://www.dropbox.com/s/e63qpdejoq1m2sv/Acta%20Asamblea%20General%20Ordinaria%202015-04-04.pdf')"><img src="../images/document.png"></a></td>
 								</tr>
 								<tr>
-									<td style="vertical-align:middle;">- Acta Asamblea General Ordinaria 2014</td>
-									<td style="text-align:center; vertical-align:middle;">&nbsp;&nbsp;&nbsp;18 de enero de 2014</td>
+									<td style="vertical-align:middle;">- Acta Assemblea General Ordinària 2014</td>
+									<td style="text-align:center; vertical-align:middle;">&nbsp;&nbsp;&nbsp;18 de gener de 2014</td>
 									<td style="vertical-align:middle;">&nbsp;&nbsp;&nbsp;<a href="javascript: OpenURL('https://www.dropbox.com/s/6v638sa9anb4wij/Acta%20Asamblea%20General%20Ordinaria%202014-01-18.pdf')"><img src="../images/document.png"></a></td>
 								</tr>
 								<tr>
-									<td style="vertical-align:middle;">- Acta Asamblea General Ordinaria 2013</td>
-									<td style="text-align:center; vertical-align:middle;">&nbsp;&nbsp;&nbsp;4 de mayo de 2013</td>
+									<td style="vertical-align:middle;">- Acta Assemblea General Ordinària 2013</td>
+									<td style="text-align:center; vertical-align:middle;">&nbsp;&nbsp;&nbsp;4 de maig de 2013</td>
 									<td style="vertical-align:middle;">&nbsp;&nbsp;&nbsp;<a href="javascript: OpenURL('https://www.dropbox.com/s/yw6ktfb40smpnx9/Acta%20Asamblea%20General%20Ordinaria%202013-05-04.pdf')"><img src="../images/document.png"></a></td>
 								</tr>
 								<tr>
-									<td style="vertical-align:middle;">- Acta Asamblea General Ordinaria 2012</td>
-									<td style="text-align:center; vertical-align:middle;">&nbsp;&nbsp;&nbsp;3 de noviembre de 2012</td>
+									<td style="vertical-align:middle;">- Acta Assemblea General Ordinària 2012</td>
+									<td style="text-align:center; vertical-align:middle;">&nbsp;&nbsp;&nbsp;3 de novembre de 2012</td>
 									<td style="vertical-align:middle;">&nbsp;&nbsp;&nbsp;<a href="javascript: OpenURL('https://www.dropbox.com/s/hh5uj5ah0rhvdfh/Acta%20Asamblea%20General%20Ordinaria%202012-11-03.pdf')"><img src="../images/document.png"></a></td>
 								</tr>
 							</table>
 							<br>
-							<h3>Otros Documentos</h3>
+							<h3>Altres Documents</h3>
 							<table>
 								<tr>
-									<td style="vertical-align:middle;">- Acta Asamblea General Extraordinaria</td>
-									<td style="text-align:center; vertical-align:middle;">&nbsp;&nbsp;&nbsp;1 de septiembre de 2018</td>
+									<td style="vertical-align:middle;">- Acta Assemblea General Extraordinària</td>
+									<td style="text-align:center; vertical-align:middle;">&nbsp;&nbsp;&nbsp;1 de setembre de 2018</td>
 									<td style="vertical-align:middle;">&nbsp;&nbsp;&nbsp;<a href="javascript: OpenURL('https://www.dropbox.com/s/yfmo88d7az4umfl/Acta%20Asamblea%20General%20Extraordinaria%202018-09-01.pdf')"><img src="../images/document.png"></a></td>
 								</tr>
 							</table>
@@ -118,11 +118,11 @@ Adapted for Penya Blaugrana de Montán Website
 						<!-- Sidebar -->
 						<section>
 							<header>
-								<h2>Más información</h2>
+								<h2>Més informació</h2>
 							</header>
 							<ul class="link-list">
-								<li><a href="documentos.html">Archivo de Documentos</a></li>
-								<li><a href="estatutos.html">Estatutos de la Peña</a></li>
+								<li><a href="documents.html">Arxiu de Documents</a></li>
+								<li><a href="estatuts.html">Estatuts de la Penya</a></li>
 								<li><a href="directiva.html">Junta Directiva</a></li>
 							</ul>
 						</section>
@@ -137,13 +137,13 @@ Adapted for Penya Blaugrana de Montán Website
 					<div class="col-8 col-12-medium">
 						<!-- Links -->
 						<section>
-							<h2>Enlaces interesantes</h2>
+							<h2>Enllaços interessants</h2>
 							<div>
 								<div class="row">
 									<div class="col-3 col-12-small">
 										<ul class="link-list last-child">
-											<li><a href="javascript: OpenURL('https://www.fcbarcelona.es')">F.C. Barcelona</a></li>
-											<li><a href="javascript: OpenURL('https://confederaciopenyes.cat/es/inicio/')">Confederación de Peñas</a></li>
+											<li><a href="javascript: OpenURL('https://www.fcbarcelona.cat')">F.C. Barcelona</a></li>
+											<li><a href="javascript: OpenURL('https://confederaciopenyes.cat')">Confederació de Penyes</a></li>
 										</ul>
 									</div>
 									<div class="col-3 col-12-small">
@@ -165,7 +165,7 @@ Adapted for Penya Blaugrana de Montán Website
 					<div class="col-4 col-12-medium imp-medium">
 						<!-- Blurb -->
 						<section>
-							<img src="../images/senyera.png" alt="Senyera" style="vertical-align:middle;">&nbsp;&nbsp;&nbsp;<a href="../ca/documents.html"><font size="+2">Versió en Valencià</font></a>
+							<img src="../images/rojigualda.jpg" alt="Bandera" style="vertical-align:middle;">&nbsp;&nbsp;&nbsp;<a href="../es/documentos.html"><font size="+2">Versión en Castellano</font></a>
 						</section>
 					</div>
 				</div>
